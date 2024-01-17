@@ -21,3 +21,6 @@ This repository houses a Python script for automated identification of support a
 python main.py AAPL
 python main.py AALI.JK
 ```
+
+## Screenshot
+![127 0 0 1_56904_](https://github.com/boysugi20/python-stock-support-resistance/assets/53815726/75e695d9-b288-47bb-8317-38d5b170ab7c)
